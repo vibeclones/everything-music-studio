@@ -1,0 +1,2 @@
+Built from HeyPuter/everything at commit d494a52 (src/music-studio).
+https://github.com/HeyPuter/everything/tree/d494a52/src/music-studio
