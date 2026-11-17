@@ -1,0 +1,1 @@
+var e=new URL(`engine-x5MkIgJN.wasm`,import.meta.url).href;export{e as default};
